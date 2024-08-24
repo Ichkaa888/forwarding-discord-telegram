@@ -1,20 +1,20 @@
 {
-  "outputChannels": [],
-  "mutedGuildsIds": ["1013671171029467227", "1139818485166379039"],
-  "allowedGuildsIds": [],
-  "mutedChannelsIds": ["1013671171029467227"],
-  "allowedChannelsIds": [],
+  "outputChannels": ["-4565667190"],
+  "mutedGuildsIds": [],
+  "allowedGuildsIds": ["1272650984182644859"],
+  "mutedChannelsIds": [],
+  "allowedChannelsIds": ["1272650984182644862"],
   "allowedUsersIds": [],
-  "mutedUsersIds": ["1038694628490235904"],
+  "mutedUsersIds": [],
   "channelConfigs": {
     "1013671171029467227": {
-      "muted": ["869088074758520832"],
+      "muted": [],
       "allowed": []
     }
   },
-  "disableLinkPreview": false,
+  "disableLinkPreview": true,
   "imagesAsMedia": true,
-  "showDate": true,
+  "showDate": false,
   "showChat": true,
   "stackMessages": false,
   "showMessageUpdates": false,
